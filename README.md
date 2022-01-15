@@ -1,5 +1,4 @@
 # ArcGIS Pro Python Project
-## Details About the Code
 ## Mapping
 Created the ArcGIS project using aprx = arcpy.mp.ArcGISProject(), then used aprx.listMaps() and m.listLayers() to access the map ojbect and layers be sure all were included in the mapping project.
 ## Geodatabase Creation
