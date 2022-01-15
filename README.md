@@ -1,2 +1,2 @@
 # python_project
-Python for Data Analytics
+Python for ArcGIS Pro
