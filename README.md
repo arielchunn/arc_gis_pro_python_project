@@ -11,5 +11,5 @@ A hillshade layer was created using the Statistical Analysis expansion. Traditio
 The image to the left is the original raster layer, the image the right is the converted DEM raster, and the gray scale image.
 
 <p align ="center">
-  <img width="342" height="305" src = "https://github.com/arielchunn/arc_gis_pro_python_project/blob/main/RasterPicture/Original%20Raster.png?raw=true">  <img width="342" height="305" src = "https://raw.githubusercontent.com/arielchunn/arc_gis_pro_python_project/a0f06d557fa36ae18498446283327c7c0b1943af/RasterPicture/Carlsbad%20raster%20DEM%20.png">
+  <img width="342" height="305" src = "https://github.com/arielchunn/arc_gis_pro_python_project/blob/main/RasterPicture/Original%20Raster.png?raw=true">  <img width="342" height="305" src = "https://raw.githubusercontent.com/arielchunn/arc_gis_pro_python_project/a0f06d557fa36ae18498446283327c7c0b1943af/RasterPicture/Carlsbad%20raster%20DEM%20.png"><img width = "342 height = "305" src = "https://github.com/arielchunn/arc_gis_pro_python_project/blob/main/RasterPicture/Hill%20Shade.png?raw=true"> 
 </p>
